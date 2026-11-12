@@ -203,4 +203,4 @@ This repository serves as the official landing page for Space Engineers 2. The s
 **Get the most recent version of Space Engineers 2 today!**
 
 ---
-**Last updated:** 2026-11-11 18:21:38 UTC
+**Last updated:** 2026-11-12 01:17:50 UTC
